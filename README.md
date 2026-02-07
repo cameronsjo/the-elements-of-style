@@ -1,10 +1,10 @@
-# The Elements of Style - Claude Code Plugin
+# The Elements of Style
 
-A Claude Code plugin providing William Strunk Jr.'s *The Elements of Style* (1918) as a reference skill for clear, precise writing.
+William Strunk Jr.'s *The Elements of Style* (1918) as a Claude Code reference skill for clear, precise writing.
 
-## Purpose
+> Maintained fork of [obra/the-elements-of-style](https://github.com/obra/the-elements-of-style) by [@cameronsjo](https://github.com/cameronsjo).
 
-This plugin gives Claude access to Strunk's foundational writing guidance when working on documentation, user-facing text, or any prose that needs clarity and proper style.
+Gives Claude access to Strunk's foundational writing guidance when working on documentation, user-facing text, or any prose that needs clarity and proper style.
 
 ## What's Inside
 
@@ -30,9 +30,9 @@ Once installed, Claude will automatically use the `writing-clearly-and-concisely
 
 ## Source
 
-This text is in the public domain. The original 1918 edition by William Strunk Jr. was obtained from Project Gutenberg and converted to clean markdown format.
+Public domain. Original 1918 edition from [Project Gutenberg #37134](https://www.gutenberg.org/files/37134/37134-h/37134-h.htm), converted to markdown.
 
-- **Original Source**: [Project Gutenberg #37134](https://www.gutenberg.org/files/37134/37134-h/37134-h.htm)
-- **Author**: William Strunk Jr.
-- **Publication**: 1918
-- **License**: Public Domain
+## Support
+
+- **Issues**: https://github.com/cameronsjo/the-elements-of-style/issues
+- **Upstream**: https://github.com/obra/the-elements-of-style
