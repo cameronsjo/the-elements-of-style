@@ -1,0 +1,20 @@
+{
+  "name": "elements-of-style-dev",
+  "description": "Development marketplace for The Elements of Style writing reference",
+  "owner": {
+    "name": "Jesse Vincent",
+    "email": "jesse@fsck.com"
+  },
+  "plugins": [
+    {
+      "name": "elements-of-style",
+      "description": "Writing guidance based on Strunk's The Elements of Style (1918)",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Jesse Vincent",
+        "email": "jesse@fsck.com"
+      }
+    }
+  ]
+}
